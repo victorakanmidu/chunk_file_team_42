@@ -3,4 +3,4 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 .chunkfile/
-splita\db.sqlite3
+splita/db.sqlite3
