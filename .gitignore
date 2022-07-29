@@ -2,3 +2,5 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.chunkfile/
+splita\db.sqlite3
