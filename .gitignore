@@ -2,5 +2,5 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-.chunkfile_env/
+chunkfile_env/
 splita/db.sqlite3
