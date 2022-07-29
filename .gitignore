@@ -4,4 +4,4 @@ _site/
 .jekyll-metadata
 chunkfile_env/
 splita/db.sqlite3
-chunkfile_env
+chunkfile_env/
